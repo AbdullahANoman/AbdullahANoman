@@ -1,7 +1,7 @@
 ![Snake animation](https://github.com/OliveiraJess/OliveiraJess/blob/output/github-contribution-grid-snake.svg)
 
 <h1 align="center">Hi 👋, I'm Abdullah Al Noman</h1>
-<h3 align="center">A passionate Mern Stack Developer from Bangladesh</h3>
+<h6 align="center">A passionate MERN stack web developer with a love for creating intuitive and seamless user experiences. 💻 With expertise in JavaScript, React, Node.js, and MongoDB, I bring ideas to life by building scalable and dynamic web applications. 🌐 Whether it's crafting responsive front-end interfaces or designing robust back-end architectures, I thrive on turning complex problems into elegant solutions. 👨‍💻 Constantly exploring new technologies and staying up-to-date with industry trends, I am committed to delivering high-quality code that exceeds expectations. 🚀 Let's connect and collaborate to build the next generation of innovative web applications together!"</h6>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abdullahanoman&label=Profile%20views&color=0e75b6&style=flat" alt="abdullahanoman" /> </p>
 
