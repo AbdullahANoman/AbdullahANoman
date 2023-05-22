@@ -1,7 +1,7 @@
-![MasterHead](https://i.ibb.co/KwBp7Mx/0-FGD6-BUzz-Zs1-VJLu-Y-1-2.gif)
+![Snake animation](https://github.com/OliveiraJess/OliveiraJess/blob/output/github-contribution-grid-snake.svg)
 
 <h1 align="center">Hi 👋, I'm Abdullah Al Noman</h1>
-<h3 align="center">A passionate Mern Developer from Bangladesh</h3>
+<h3 align="center">A passionate Mern Stack Developer from Bangladesh</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abdullahanoman&label=Profile%20views&color=0e75b6&style=flat" alt="abdullahanoman" /> </p>
 
