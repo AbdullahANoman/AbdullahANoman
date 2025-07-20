@@ -11,7 +11,7 @@ I also have a solid understanding of software best practices, Archetecture, Syst
 
 ## 🌟 Achievements  
 
-- 🏆 Solveing problems** on [Codeforces](https://codeforces.com/profile/abdullahNoman) [CodeChef](https://www.codechef.com/users/abdullahnoman4)
+- 🏆 Solveing problems** on [Codeforces](https://codeforces.com/profile/abdullahNoman) & [CodeChef](https://www.codechef.com/users/abdullahnoman4)
 
 
 ## 📊 GitHub Stats  
